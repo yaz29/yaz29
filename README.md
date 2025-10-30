@@ -35,6 +35,15 @@ I prioritize hands-on experience with production-ready security and cloud techno
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
+### 🧾 Certifications
+
+- CompTIA Security+
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals
+- Microsoft SC-300 (Identity)
+- 🎯 In Progress: SC-200 (Security Operations)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yaz29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yaz29&theme=radical&hide_border=false)<br/>
