@@ -17,8 +17,17 @@ I prioritize hands-on experience with production-ready security and cloud techno
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-#### 🔐 IAM & Identity: Azure AD, Conditional Access, MFA, SSO, RBAC, AWS IAM, Privileged Access Management (PAM).
-- 
+#### 🔐 IAM & Identity  
+
+[![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/01-azure-ad-conditional-access)
+[![Conditional Access](https://img.shields.io/badge/Conditional%20Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/01-azure-ad-conditional-access)
+[![MFA](https://img.shields.io/badge/MFA-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/01-azure-ad-conditional-access)
+[![SSO](https://img.shields.io/badge/SSO-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/02-azure-ad-sso)
+[![RBAC](https://img.shields.io/badge/RBAC-0052CC?style=for-the-badge&logo=azuredevops&logoColor=white)](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/04-iam-multicloud)
+[![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/04-iam-multicloud)
+[![PAM](https://img.shields.io/badge/PAM-2E77BC?style=for-the-badge&logo=okta&logoColor=white)](https://www.microsoft.com/security/business/identity-access/microsoft-entra-permissions-management)
+
+
   - [Azure AD Conditional Access & MFA](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/01-azure-ad-conditional-access),  
   - [SSO Lab](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/02-azure-ad-sso),  
   - [AWS IAM Lab](https://github.com/tuusuario/cybersecurity-iam-labs/tree/main/04-iam-multicloud)
